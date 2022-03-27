@@ -52,9 +52,6 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vigneshimself&show_icons=true&locale=en&layout=compact" alt="jsxclan" /></p>
  -->
-![alt text](/airpods-pro.gif)(https://tenor.com/bp3AQ.gif)
-
-<div class="tenor-gif-embed" data-postid="18564330" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/hello-world-gif-18564330">Hello World GIF</a>from <a href="https://tenor.com/search/hello+world-gifs">Hello World GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 ![GitHub contribution grid snake animation](https://raw.githubusercontent.com/jsxclan/jsxclan/output/github-contribution-grid-snake.svg)
