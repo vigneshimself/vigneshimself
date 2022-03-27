@@ -12,9 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
 <h1 align="center">Hi there, I'm Vignesh 👋</h1>
 
-<!-- <p align="left"> <a href="https://twitter.com/vigneshimself" target="blank"><img src="https://img.shields.io/twitter/follow/vigneshimself?logo=twitter&style=for-the-badge" alt="vigneshimself" /></a> </p>
+ <p align="left"> <a href="https://twitter.com/vigneshimself" target="blank"><img src="https://img.shields.io/twitter/follow/vigneshimself?logo=twitter&style=for-the-badge" alt="vigneshimself" /></a> </p>
 
 - 🔭 I’m currently working on creating flamegraphs with [D3.js](https://d3js.org/)
 
