@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there, I'm Vignesh 👋</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/vigneshimself" target="blank"><img src="https://img.shields.io/twitter/follow/vigneshimself?logo=twitter&style=for-the-badge" alt="vigneshimself" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/vigneshimself" target="blank"><img src="https://img.shields.io/twitter/follow/vigneshimself?logo=twitter&style=for-the-badge" alt="vigneshimself" /></a> </p>
 
 - 🔭 I’m currently working on creating flamegraphs with [D3.js](https://d3js.org/)
 
@@ -50,6 +50,6 @@ Here are some ideas to get you started:
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vigneshimself&show_icons=true&locale=en&layout=compact" alt="jsxclan" /></p>
-
+ -->
 
 ![GitHub contribution grid snake animation](https://raw.githubusercontent.com/jsxclan/jsxclan/output/github-contribution-grid-snake.svg)
