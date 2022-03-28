@@ -1,1 +1,1 @@
-![alt](/wide-banner.gif)
+![alt](/helloworld.gif)
