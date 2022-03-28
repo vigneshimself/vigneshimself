@@ -1,3 +1,2 @@
- <br>
- ![alt](/helloworld.gif)
-</br>
+![alt](/helloworld.gif)
+
