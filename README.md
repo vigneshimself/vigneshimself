@@ -1,1 +1,1 @@
-![alt](/hello-world.gif)
+![alt](/hello-world-squz.gif)
