@@ -1,1 +1,1 @@
-![alt text](/tnt.gif)
+
