@@ -1,2 +1,2 @@
-![alt](/helloworld.gif)
+![Alt Text](/helloworld.gif)
 
